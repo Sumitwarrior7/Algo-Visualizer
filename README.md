@@ -1,6 +1,6 @@
-# Algorithm Visualizer
+# Path Finder
 
-Algorithm Visualizer is a project that helps in visualizing certain graph algorithms like Dijkstra, BFS, etc. This visualization can aid in understanding how these algorithms work step by step.
+Path Finder is a project that helps in visualizing certain graph algorithms like Dijkstra, BFS, etc. This visualization can aid in understanding how these algorithms work step by step.
 
 ## Features
 
@@ -14,12 +14,12 @@ Algorithm Visualizer is a project that helps in visualizing certain graph algori
 1. Clone the repository to your local machine:
 
    ```sh
-   git clone https://github.com/yourusername/algorithm-visualizer.git
+   git clone https://github.com/Sumitwarrior7/Path-Finder.git
    
 2. Navigate to the project directory:
 
    ```sh
-   cd algorithm-visualize
+   cd Path-Finder
 
 3. Run the local server under index.html file:
 
